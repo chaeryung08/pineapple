@@ -8,7 +8,7 @@ meta:
 
 project:
   title: "콩 농사법"
-  type: "Jekyll"
+  type: "채령"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/redpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
